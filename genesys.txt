@@ -1,0 +1,11 @@
+	Christian Albovias: Link to the Ebook: 
+	Christian Albovias:  https://learn.genesys.com/learn/courses/135/genesys-cloud-cx-implementation/lessons/44336/genesys-cloud-cx-implementation-ebook 
+	You: Thanks Chris 
+	Duc Chu Minh 656098: GM everyone, hope you all are more than good 
+	Duc Chu Minh 656098: coffee is good choice :D 
+	Christian Albovias:  https://help.mypurecloud.com/articles/telephony-connection-options/ 
+	Christian Albovias:  https://help.mypurecloud.com/articles/how-does-genesys-cloud-voice-work/ 
+	Christian Albovias:  https://help.mypurecloud.com/articles/about-byoc-premises/ 
+	John Szie Wee Liat 651583: do you have documents sample for products on 3rd party integration configuration with Genesys 
+	
+From <https://genesyslab.adobeconnect.com/common/webrtchtml/index.html?timestamp=1755567191232> 
