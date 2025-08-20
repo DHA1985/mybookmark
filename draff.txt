@@ -2,6 +2,9 @@ https://coreidentity.microsoft.com/manage/Entitlement/entitlement/cesdynamicsv-t
 
 https://coreidentity.microsoft.com/manage/Entitlement/entitlement/azurestandar-bn 
 
+D365FO support engineer DP request access
+
+
 ENTITLEMENT TEXT VERSION 
 
  
