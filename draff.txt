@@ -1,0 +1,77 @@
+https://coreidentity.microsoft.com/manage/Entitlement/entitlement/cesdynamicsv-tqtv 
+
+https://coreidentity.microsoft.com/manage/Entitlement/entitlement/azurestandar-bn 
+
+ENTITLEMENT TEXT VERSION 
+
+ 
+
+CSSD365FOMyWorkspaceVMs > đổi thành Dynamics 365 ShefyAxOrg Accounts (id:Cssfomyworks-vqq0) 
+
+ 
+
+Azure SQL CSS std CAS > Only see "Azure SQL CSS std"  
+
+ 
+
+CES-Dynamics-VSAccss > got validate as waiting for approval from other role. 
+
+  
+
+TM-FinOps CSS DP Unify > Done 
+
+TM-CRMTelemetry > Done 
+
+TM-CSSAzureSuppliers > Done  
+
+TM-CSSAzureSuppliers > Done  
+
+TM-D365FinOpsTelemetry > Done 
+
+TM-CapCoreSvcsTelemetry > Done 
+
+WFM General User Access > Done 
+
+DynamicsCRM-Reader > Done 
+
+DynamicsCRM-Contributor > Done 
+
+AxFO_CSS-EE > Done 
+
+Unify-Dyn365Platform > Done ENTITLEMENT TEXT VERSION 
+
+ 
+
+CSSD365FOMyWorkspaceVMs > đổi thành Dynamics 365 ShefyAxOrg Accounts (id:Cssfomyworks-vqq0) 
+
+ 
+
+Azure SQL CSS std CAS > Only see "Azure SQL CSS std"  
+
+ 
+
+CES-Dynamics-VSAccss > got validate as waiting for approval from other role. 
+
+  
+
+TM-FinOps CSS DP Unify > Done 
+
+TM-CRMTelemetry > Done 
+
+TM-CSSAzureSuppliers > Done  
+
+TM-CSSAzureSuppliers > Done  
+
+TM-D365FinOpsTelemetry > Done 
+
+TM-CapCoreSvcsTelemetry > Done 
+
+WFM General User Access > Done 
+
+DynamicsCRM-Reader > Done 
+
+DynamicsCRM-Contributor > Done 
+
+AxFO_CSS-EE > Done 
+
+Unify-Dyn365Platform > Done 
