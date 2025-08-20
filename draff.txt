@@ -47,34 +47,17 @@ Unify-Dyn365Platform > Done ENTITLEMENT TEXT VERSION
 
 CSSD365FOMyWorkspaceVMs > đổi thành Dynamics 365 ShefyAxOrg Accounts (id:Cssfomyworks-vqq0) 
 
+
+
+https://idweb.microsoft.com/IdentityManagement/default.aspx 
+
  
 
-Azure SQL CSS std CAS > Only see "Azure SQL CSS std"  
+To join a Idweb group go to Home => Click on Join a DG/SG+ 
+
+=> click on search for (refer  
+
+Justification : "D365FO support engineer DP request access" 
 
  
 
-CES-Dynamics-VSAccss > got validate as waiting for approval from other role. 
-
-  
-
-TM-FinOps CSS DP Unify > Done 
-
-TM-CRMTelemetry > Done 
-
-TM-CSSAzureSuppliers > Done  
-
-TM-CSSAzureSuppliers > Done  
-
-TM-D365FinOpsTelemetry > Done 
-
-TM-CapCoreSvcsTelemetry > Done 
-
-WFM General User Access > Done 
-
-DynamicsCRM-Reader > Done 
-
-DynamicsCRM-Contributor > Done 
-
-AxFO_CSS-EE > Done 
-
-Unify-Dyn365Platform > Done 
